@@ -1,0 +1,10 @@
+{
+  "name": "aplicacao_node",
+  "version": ".code",
+  "description": " ",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
